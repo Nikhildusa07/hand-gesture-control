@@ -1,5 +1,5 @@
 ﻿
-# ✋ Hand Gesture Recognition using Webcam
+# ✋ Hand Gesture Control using Webcam
 
 Control your PC system actions using just your hand gestures via webcam — powered by Python, OpenCV, MediaPipe, and PyAutoGUI.
 
