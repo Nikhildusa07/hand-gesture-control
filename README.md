@@ -23,7 +23,7 @@ Control your PC system actions using just your hand gestures via webcam — powe
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Nikhildusa07/hand-gesture-control.git
+git clone https://github.com/Nikhildusa07/Hand-Gesture-Control.git
 cd hand-gesture-control
 pip install -r requirements.txt
 python main.py
